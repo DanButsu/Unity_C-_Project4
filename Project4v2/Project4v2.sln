@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{2c2dad1d-4bcb-0949-28fb-e4797525305e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.Utils.Scripts", "Boxophobic.Utils.Scripts.csproj", "{1c180dc8-e4c5-4965-7b14-2db3b1d7741d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerSample", "ControllerSample.csproj", "{3970c309-1a2d-7375-d22d-a7ea6b1c6f79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.TheVegetationEngine.Runtime", "Boxophobic.TheVegetationEngine.Runtime.csproj", "{58bcfb08-4538-c074-36c0-e5a8017ac3b2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralWorlds.Flora.Runtime", "ProceduralWorlds.Flora.Runtime.csproj", "{6fdef329-3073-0c52-4d1f-29b9a4cadf5e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{38982058-9775-fbff-5b24-9dacab5fa9ea}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralWorlds.Flora.Editor", "ProceduralWorlds.Flora.Editor.csproj", "{23ddd7ab-554e-b697-9cba-57d9b761a121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.Utils.Editor", "Boxophobic.Utils.Editor.csproj", "{02d23258-c3b8-c306-5396-af2902ade625}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxophobic.TheVegetationEngine.Editor", "Boxophobic.TheVegetationEngine.Editor.csproj", "{01966b33-7a11-2d85-f222-9960685e80b4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Management.Samples", "Unity.XR.Management.Samples.csproj", "{ac958203-2c7d-8cd0-0207-81755108dc6b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Management.Samples.Editor", "Unity.XR.Management.Samples.Editor.csproj", "{fe74f267-bc26-6ec3-8e4b-d78de56a95f6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2c2dad1d-4bcb-0949-28fb-e4797525305e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2c2dad1d-4bcb-0949-28fb-e4797525305e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1c180dc8-e4c5-4965-7b14-2db3b1d7741d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1c180dc8-e4c5-4965-7b14-2db3b1d7741d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3970c309-1a2d-7375-d22d-a7ea6b1c6f79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3970c309-1a2d-7375-d22d-a7ea6b1c6f79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58bcfb08-4538-c074-36c0-e5a8017ac3b2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58bcfb08-4538-c074-36c0-e5a8017ac3b2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6fdef329-3073-0c52-4d1f-29b9a4cadf5e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6fdef329-3073-0c52-4d1f-29b9a4cadf5e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38982058-9775-fbff-5b24-9dacab5fa9ea}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38982058-9775-fbff-5b24-9dacab5fa9ea}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23ddd7ab-554e-b697-9cba-57d9b761a121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23ddd7ab-554e-b697-9cba-57d9b761a121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02d23258-c3b8-c306-5396-af2902ade625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02d23258-c3b8-c306-5396-af2902ade625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01966b33-7a11-2d85-f222-9960685e80b4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01966b33-7a11-2d85-f222-9960685e80b4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ac958203-2c7d-8cd0-0207-81755108dc6b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ac958203-2c7d-8cd0-0207-81755108dc6b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fe74f267-bc26-6ec3-8e4b-d78de56a95f6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fe74f267-bc26-6ec3-8e4b-d78de56a95f6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
